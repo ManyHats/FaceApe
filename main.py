@@ -1,6 +1,4 @@
-import faces
-import sys
-import kivy
+import faces #https://github.com/vasilysinitsin/Faces
 from PIL import Image
 
 filename = input("Enter filename including extension:\n>")
